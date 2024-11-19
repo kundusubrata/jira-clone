@@ -22,7 +22,9 @@ ZCrum is a project management application inspired by Jira. It offers a comprehe
 
 ## Screenshots
 
-![zcrum Homepage](/public/jira-clone-homepage.png)
+![zcrum homepage](/public/jira-clone-homepage.png)
+![organization page](/public/organization-dashboard.png)
+![sprint page](/public/project-sprint-kanbanboard.png)
 
 ## Prerequisites
 
